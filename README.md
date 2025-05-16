@@ -14,9 +14,6 @@ Right now, I'm learning and practicing data analysis, automation, and prediction
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/%E7%B4%B9%E5%B9%B3-%E7%B7%B4-48a33b9a/)  
 [![Instagram](https://img.shields.io/badge/Instagram-@shaopinglien-E4405F?logo=instagram)](https://www.instagram.com/shaopinglien/)
 
-appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 -->
