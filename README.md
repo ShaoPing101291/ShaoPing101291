@@ -2,7 +2,7 @@
 
  
 
-I'm passionate about Python, machine learning, and data science.  
+I'm passionate about Python, machine learning, and data analysis.  
 I enjoy using code to solve real problems and build useful tools.  
 Right now, I'm learning and practicing data analysis, automation, and prediction models.
 
